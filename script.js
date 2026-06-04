@@ -8,3 +8,9 @@ function addNumbers(...nums) {
 }
 
 addNumbers(5, 10, 15)
+
+function subtract(a,b){
+    return a - b;
+}
+
+console.log(subtract(50,35));
