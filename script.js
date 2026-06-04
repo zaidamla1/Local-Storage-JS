@@ -1,4 +1,4 @@
-localStorage.setItem("username", "zaid_amla")
+localStorage.setItem("username", "manish_sharma")
 function addNumbers(...nums) {
     let sum = 0;
     for (let i = 0; i < nums.length; i++) {
@@ -7,7 +7,7 @@ function addNumbers(...nums) {
     console.log(sum)
 }
 
-addNumbers(5, 10, 15)
+addNumbers(50, 100, 150)
 
 function subtract(a,b){
     return a - b;
